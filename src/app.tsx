@@ -367,7 +367,7 @@ export const App = () => {
           label="Insert text"
           control={(props) => (
 
-            <MultilineInput
+            <MultilineInput autoGrow
             onChange={(value: string) => (
               citationSources = value
           )}
