@@ -1,3 +1,10 @@
+# Note from Nabhan Rashid
+
+This is a project by Nabhan Rashid to create citations using the Canva SDK. The code uses the canva-apps-sdk-starter kit, which is why I included the rest of the README.md.
+
+Thank you for checking my code.
+
+
 # Canva Apps SDK starter kit
 
 Welcome to the **Apps SDK starter kit** for Canva's app development platform. 🎉
